@@ -11,7 +11,7 @@ const buttonVariants = cva(
           "bg-emerald-800 text-white hover:bg-zinc-700  dark:hover:bg-emerald-600",
         danger: "bg-red-500 text-white hover:bg-red-600 dark:hover:bg-red-600",
         outline:
-          "bg-transparent border border-zinc-200 hover:bg-zinc-100 dark:border-zinc-700 dark:text-zinc-100",
+          "bg-transparent border border-emerald-800 hover:bg-zinc-100  dark:text-zinc-100",
         secondary:
           "bg-zinc-100 text-zinc-900 hover:bg-zinc-200 dark:bg-zinc-700 dark:text-zinc-100",
         ghost:
